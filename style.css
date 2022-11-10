@@ -45,10 +45,12 @@ footer{
     overflow: hidden;
 }
 
+/* Font margin */
 h1, h2, p{
      margin-inline-start: 28px;
 }
 
+/* main test */
 .main > p{
     font-size: 14px;
     font-weight: 600;
